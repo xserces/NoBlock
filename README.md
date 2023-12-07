@@ -33,3 +33,4 @@ Should you run into a bug that isn't listed here, then please report it by creat
 A Big thank you to:
 - [WD-](https://github.com/shobhit-pathak/) for helping me find a way to change the value of the player's collision group.
 - [KillStr3aK](https://github.com/KillStr3aK/) for helping with Windows and Linux checks and collision rule changes.
+.
